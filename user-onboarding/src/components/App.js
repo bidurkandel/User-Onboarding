@@ -90,7 +90,7 @@ useEffect(()=>{
   return (
     <div className="App">
       <header>
-        <h1>New User Input</h1>
+        <h1>New User Onboarding Input</h1>
       </header>
       <FriendForm
         values={formValues}

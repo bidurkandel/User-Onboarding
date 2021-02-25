@@ -17,7 +17,7 @@ export default function FriendForm(props) {
   return (
     <form className="form container" onSubmit={onSubmit}>
       <div className="form-group submit">
-        <h2>Add a Friend</h2>
+        <h2>Don't Add a Friend</h2>
 
         <button disabled={disabled}>submit</button>
 
